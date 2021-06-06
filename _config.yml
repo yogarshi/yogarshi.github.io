@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yogarshi Vyas’’"
+title                    : "Yogarshi Vyas"
 title_separator          : "-"
 name                     : &name "Yogarshi Vyas"
 description              : &description "Applied Scientist, Amazon AI"
