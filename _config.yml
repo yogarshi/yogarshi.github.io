@@ -64,7 +64,7 @@ og_image                 :  # Open Graph/Twitter default site image
 social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  links: # An array of links to social media ss
 
 
 # Analytics
@@ -77,7 +77,7 @@ analytics:
 # Site Author
 author:
   name             : "Yogarshi Vyas"
-  avatar           : "profile.png"
+  avatar           : "main.jpg"
   bio              : "Applied Scientist, Amazon AI"
   location         : "New York, NY"
   googlescholar    : "https://scholar.google.com/citations?user=k6k7i1IAAAAJ&hl=en&oi=ao"
