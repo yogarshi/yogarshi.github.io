@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yogarshi Vyas"
 title_separator          : "-"
 name                     : &name "Yogarshi Vyas"
-description              : &description "Applied Scientist, Amazon AI"
+description              : &description "Yogarshi Vyas - Personal Webpage"
 url                      : "https://yogarshi.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yogarshi/yogarshi.github.io"
@@ -78,12 +78,11 @@ analytics:
 author:
   name             : "Yogarshi Vyas"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Applied Scientist, Amazon AI"
   location         : "New York, NY"
-  employer         :
   googlescholar    : "https://scholar.google.com/citations?user=k6k7i1IAAAAJ&hl=en&oi=ao"
   email            : "yogarshi@amazon.com"
-  github           : "https://github.com/yogarshi"
+  github           : "yogarshi"
   twitter          : "yogarshi"
 
 
